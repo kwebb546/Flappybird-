@@ -1,0 +1,9 @@
+To complete my goals regarding flappy bird augmentation I must complete the follwing steps
+
+create a projectile object that will move leftward across the scree, twoard the player
+add another key event for when the player needs to "slow down" to avoid projectiles
+set up collision detection between projectile and player
+add sound effects/soundstrack
+cosmetic changes
+
+all of these will be done by me, kurtis webb
